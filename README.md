@@ -39,8 +39,8 @@ A simple and intuitive YouTube downloader with GUI support. Download videos and 
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/AristarhUcolov/youtube-downloader.git
-cd youtube-downloader
+git clone https://github.com/AristarhUcolov/YouTube-Downloader.git
+cd YouTube-Downloader
 ```
 
 2. **Install dependencies**
@@ -293,8 +293,8 @@ For questions or suggestions, please open an issue on GitHub.
 
 1. **Клонируйте репозиторий**
 ```bash
-git clone https://github.com/AristarhUcolov/youtube-downloader.git
-cd youtube-downloader
+git clone https://github.com/AristarhUcolov/YouTube-Downloader.git
+cd YouTube-Downloader
 ```
 
 2. **Установите зависимости**
