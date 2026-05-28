@@ -311,9 +311,7 @@ If you find this software useful:
 
 ☕ **Buy Me a Coffee**: https://buymeacoffee.com/aristarh.ucolov
 
-🏦 **Bank Transfer**: 
-- Card: `4028 1202 1106 0963`
-- Bank: Moldindconbank
+💜 **DonationAlerts**: https://www.donationalerts.com/r/aristarh_ucolov
 
 ### I found a bug. Where do I report it?
 
@@ -675,9 +673,7 @@ python yt_downloader.py "URL" --format mp3
 
 ☕ **Угостить кофе**: https://buymeacoffee.com/aristarh.ucolov
 
-🏦 **Банковский перевод**: 
-- Карта: `4028 1202 1106 0963`
-- Банк: Moldindconbank
+💜 **DonationAlerts**: https://www.donationalerts.com/r/aristarh_ucolov
 
 ### Я нашел баг. Где сообщить об этом?
 

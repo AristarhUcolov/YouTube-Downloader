@@ -26,7 +26,7 @@ A simple and intuitive YouTube downloader with GUI support. Download videos and 
 - 🌐 **Multilingual** - English and Russian interface with real-time switching
 - 💻 **GUI & CLI** - Easy-to-use graphical interface or command-line usage
 - 📦 **Portable** - Can be built as standalone .exe for Windows
-- ☕ **Support Developer** - Built-in donation links (Buy Me a Coffee & Bank Transfer)
+- ☕ **Support Developer** - Built-in donation links (Buy Me a Coffee & DonationAlerts)
 
 ## 🚀 Quick Start
 
@@ -239,15 +239,13 @@ If you'd like to support the development of this project, you can buy me a coffe
 
 **Direct link**: [buymeacoffee.com/aristarh.ucolov](https://buymeacoffee.com/aristarh.ucolov)
 
-### 💳 Bank Transfer
+### 💜 DonationAlerts
 
-You can also support via direct bank transfer:
+You can also support via DonationAlerts:
 
-```
-Bank: Moldindconbank
-Card Number: 4028 1202 1106 0963
-Recipient: Aristarh Ucolov
-```
+[![DonationAlerts](https://img.shields.io/badge/DonationAlerts-support-purple?style=for-the-badge)](https://www.donationalerts.com/r/aristarh_ucolov)
+
+**Direct link**: [donationalerts.com/r/aristarh_ucolov](https://www.donationalerts.com/r/aristarh_ucolov)
 
 ## 📧 Contact
 
@@ -280,7 +278,7 @@ For questions or suggestions, please open an issue on GitHub.
 - 🌐 **Мультиязычность** - Интерфейс на английском и русском языках с мгновенной сменой
 - 💻 **GUI и CLI** - Удобный графический интерфейс или использование через командную строку
 - 📦 **Портативность** - Возможность сборки в автономный .exe для Windows
-- ☕ **Поддержка разработчика** - Встроенные ссылки на донат (Buy Me a Coffee и банковский перевод)
+- ☕ **Поддержка разработчика** - Встроенные ссылки на донат (Buy Me a Coffee и DonationAlerts)
 
 ### 🚀 Быстрый старт
 
@@ -495,15 +493,13 @@ ffmpeg используется для конвертации загруженн
 
 **Прямая ссылка**: [buymeacoffee.com/aristarh.ucolov](https://buymeacoffee.com/aristarh.ucolov)
 
-#### 💳 Банковский перевод
+#### 💜 DonationAlerts
 
-Также можете поддержать через банковский перевод:
+Также можете поддержать через DonationAlerts:
 
-```
-Банк: Moldindconbank
-Номер карты: 4028 1202 1106 0963
-Получатель: Aristarh Ucolov
-```
+[![DonationAlerts](https://img.shields.io/badge/DonationAlerts-%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D1%82%D1%8C-purple?style=for-the-badge)](https://www.donationalerts.com/r/aristarh_ucolov)
+
+**Прямая ссылка**: [donationalerts.com/r/aristarh_ucolov](https://www.donationalerts.com/r/aristarh_ucolov)
 
 ### 📧 Контакты
 
